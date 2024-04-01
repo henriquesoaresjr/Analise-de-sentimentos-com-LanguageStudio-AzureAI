@@ -46,6 +46,10 @@ Para isso, no [Portal Azure](https://portal.azure.com/), selecione o grupo de re
 
 ![](https://github.com/henriquesoaresjr/Analise-de-sentimentos-com-LanguageStudio-AzureAI/blob/main/prints%20auxiliares/excluindo%20grupo%20de%20recursos.png)
 
+# Referências
+- [Explore o Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
+- [Analise de textos com o Language Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
+
 
 
 
